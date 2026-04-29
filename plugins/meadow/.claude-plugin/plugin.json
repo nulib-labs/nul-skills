@@ -1,0 +1,7 @@
+{
+  "name": "meadow",
+  "description": "Run Meadow test Make targets with consistent provisioning semantics.",
+  "author": {
+    "name": "Northwestern University Libraries"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "nul-skills",
+  "owner": {
+    "name": "Northwestern University Libraries"
+  },
+  "metadata": {
+    "description": "Northwestern University Libraries community skills catalog.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "meadow",
+      "source": "./plugins/meadow",
+      "description": "Run Meadow test Make targets with consistent provisioning semantics."
+    }
+  ]
+}
